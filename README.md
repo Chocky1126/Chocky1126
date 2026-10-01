@@ -6,7 +6,7 @@
 
 ## 我在做什么
 
-### [顺手取](https://github.com/Chocky1126/shunshouqu-android)
+### [顺手取](https://github.com/Chocky1126/shunshouqu)
 
 `Android` · `Java`
 
@@ -14,7 +14,7 @@
 
 离线使用 · 数据仅存本机 · 桌面小部件
 
-**[查看源码](https://github.com/Chocky1126/shunshouqu-android)** · **[下载体验](https://github.com/Chocky1126/shunshouqu-android/releases/latest)** · [使用指南](https://github.com/Chocky1126/shunshouqu-android/blob/main/docs/user-guide.md)
+**[查看源码](https://github.com/Chocky1126/shunshouqu)** · **[下载体验](https://github.com/Chocky1126/shunshouqu/releases/latest)** · [使用指南](https://github.com/Chocky1126/shunshouqu/blob/main/docs/user-guide.md)
 
 ---
 
@@ -34,4 +34,4 @@
 
 **关注我，看看这些项目的后续迭代。**
 
-[顺手取 Issues](https://github.com/Chocky1126/shunshouqu-android/issues) · [GasDetection Issues](https://github.com/Chocky1126/GasDetection/issues)
+[顺手取 Issues](https://github.com/Chocky1126/shunshouqu/issues) · [GasDetection Issues](https://github.com/Chocky1126/GasDetection/issues)
